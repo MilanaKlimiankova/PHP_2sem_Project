@@ -1,0 +1,804 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"flex-",
+				"flex-start\tjustify-content"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"spa",
+				"space-around\tjustify-content"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"padd",
+				"padding-right\tproperty"
+			],
+			[
+				"su",
+				"subscriptions"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"dra",
+				"drawDot"
+			],
+			[
+				"bo",
+				"border-style\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"sp",
+				"space-around\tjustify-content"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"fi",
+				"fill\tproperty"
+			],
+			[
+				"se",
+				"align-self\tproperty"
+			],
+			[
+				"p",
+				"position\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"da",
+				"display\tproperty"
+			],
+			[
+				"co",
+				"comment"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"magin-",
+				"margin-left\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"f",
+				"flex-start\talign-items"
+			],
+			[
+				"blo",
+				"blocks"
+			],
+			[
+				"l",
+				"label\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"mr",
+				"margin-bottom\tproperty"
+			],
+			[
+				"Mar",
+				"margin-top\tproperty"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"ite",
+				"itemWidth"
+			],
+			[
+				"i",
+				"itemsCount"
+			],
+			[
+				"btn",
+				"btnPrev"
+			],
+			[
+				"slides",
+				"slidesToScroll"
+			],
+			[
+				"it",
+				"itemWidth"
+			],
+			[
+				"sli",
+				"slidesToShow"
+			],
+			[
+				"a",
+				"assets"
+			],
+			[
+				"lo",
+				"logo"
+			],
+			[
+				"w",
+				"wHeight"
+			],
+			[
+				"fl",
+				"flex-direction\tproperty"
+			],
+			[
+				"conte",
+				"justify-content\tproperty"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"c",
+				"cursor\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"pr",
+				"prog"
+			],
+			[
+				"sc",
+				"science"
+			],
+			[
+				"cha",
+				"fromCharCode"
+			],
+			[
+				"MAR",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mai",
+				"margin-top\tproperty"
+			],
+			[
+				"spe",
+				"spec-button"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"bakg",
+				"background-size\tproperty"
+			],
+			[
+				"padding-",
+				"padding-right\tproperty"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"coor",
+				"color\tproperty"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"WI",
+				"width\tproperty"
+			],
+			[
+				"pro",
+				"product4"
+			],
+			[
+				"crea",
+				"createButton"
+			],
+			[
+				"bacgro",
+				"background-image\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"get",
+				"getInfo"
+			],
+			[
+				"ge",
+				"getSpec"
+			],
+			[
+				"st",
+				"student10"
+			],
+			[
+				"stu",
+				"student1"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"g",
+				"ginger"
+			],
+			[
+				"colo",
+				"color10"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"q",
+				"quest2"
+			],
+			[
+				"que",
+				"quest1"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"сд",
+				"сдесь"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fal",
+				"flag"
+			],
+			[
+				"days",
+				"days_ru"
+			],
+			[
+				"transfor",
+				"transform-origin\tproperty"
+			],
+			[
+				"curc",
+				"curcumference"
+			],
+			[
+				"stroke",
+				"stroke-dasharray\tproperty"
+			],
+			[
+				"border-le",
+				"border-left-color\tproperty"
+			],
+			[
+				"error",
+				"errorFirstName"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"tem",
+				"temp_s"
+			],
+			[
+				"temp",
+				"temp_i"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"po",
+				"pow"
+			],
+			[
+				"elem",
+				"elemABC"
+			],
+			[
+				"MARGIN",
+				"margin-top\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"Lato",
+				"LatoLight"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"pi",
+				"position\tproperty"
+			],
+			[
+				"Fo",
+				"font-style\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WampServer/www/gamekm/cabinet.php",
+		"/D/WampServer/www/gamekm/blocks/loadSubscribers.php",
+		"/D/WampServer/www/gamekm/blocks/loadSubscriptions.php",
+		"/D/WampServer/www/gamekm/blocks/subscribe.php",
+		"/D/WampServer/www/gamekm/functions/subscribe.js",
+		"/D/WampServer/www/gamekm/functions/like.js",
+		"/D/WampServer/www/gamekm/assets/css/post.css",
+		"/D/WampServer/www/gamekm/assets/css/cabinet.css",
+		"/D/WampServer/www/gamekm/assets/css/404.css",
+		"/D/WampServer/www/gamekm/err404.php",
+		"/D/WampServer/www/gamekm/.htaccess",
+		"/D/WampServer/www/gamekm/modules/auth/auth.php",
+		"/D/WampServer/www/gamekm/modules/auth/auth_out.php",
+		"/D/WampServer/www/gamekm/modules/auth/auth_in.php",
+		"/D/WampServer/www/gamekm/modules/registration/reg.php",
+		"/D/WampServer/www/gamekm/about.php",
+		"/D/WampServer/www/gamekm/feed.php",
+		"/D/WampServer/www/gamekm/index.php",
+		"/D/WampServer/www/gamekm/post.php",
+		"/D/WampServer/www/gamekm/create-post.php",
+		"/D/WampServer/www/gamekm/blocks/feedGuides.php",
+		"/D/WampServer/www/gamekm/blocks/feedPopular.php",
+		"/D/WampServer/www/gamekm/blocks/feedSubscribed.php",
+		"/D/WampServer/www/gamekm/blocks/feedSubscribedGuest.php",
+		"/D/WampServer/www/gamekm/blocks/footer.php",
+		"/D/WampServer/www/gamekm/blocks/header-guest.php",
+		"/D/WampServer/www/gamekm/blocks/header-logged.php",
+		"/D/WampServer/www/gamekm/blocks/response.php",
+		"/D/WampServer/www/gamekm/blocks/postComments.php",
+		"/D/WampServer/www/gamekm/blocks/userComments.php",
+		"/D/WampServer/www/gamekm/blocks/userLikes.php",
+		"/D/WampServer/www/gamekm/blocks/userPosts.php",
+		"/D/WampServer/www/gamekm/settings.php",
+		"/D/WampServer/www/gamekm/assets/css/authreg.css",
+		"/D/WampServer/www/gamekm/assets/css/about.css",
+		"/D/WampServer/www/gamekm/assets/css/index.css",
+		"/D/WampServer/www/gamekm/assets/css/general.css",
+		"/D/WampServer/www/gamekm/assets/css/feedGuest.css",
+		"/D/WampServer/www/gamekm/functions/sections-cabinet-logged.js",
+		"/D/WampServer/www/gamekm/blocks/loadSubscribedGuest.php",
+		"/E/lab4/index.html",
+		"/E/lab4/assets/css/style.sass",
+		"/E/Университет/ДЭиВИ/lab4/assets/css/style.sass",
+		"/E/Университет/ДЭиВИ/lab4/index.html",
+		"/D/WampServer/www/gamekm/blocks/loadSubscribersGuest.php",
+		"/D/WampServer/www/gamekm/functions/modal.js",
+		"/D/WampServer/www/gamekm/assets/css/header.css",
+		"/D/WampServer/www/gamekm/redirect.htaccess",
+		"/D/WampServer/apps/phpsysinfo3.3.2/.htaccess",
+		"/D/WampServer/www/test/www/js/golos.js",
+		"/D/WampServer/www/test/www/index.php",
+		"/D/WampServer/www/test/www/config.php",
+		"/E/lab4/assets/css/style.css",
+		"/E/lab4/assets/css/_colors.sass",
+		"/E/Университет/ДЭиВИ/lab3/index.html",
+		"/D/WampServer/www/Кроха Мотылёк/cabinet.php",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/header-logged.php",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/header-guest.php",
+		"/D/WampServer/www/Кроха Мотылёк/modules/registration/reg.php",
+		"/D/WampServer/www/Кроха Мотылёк/about.php",
+		"/D/WampServer/www/Кроха Мотылёк/post.php",
+		"/D/WampServer/www/Кроха Мотылёк/create-post.php",
+		"/D/WampServer/www/Кроха Мотылёк/index.php",
+		"/D/WampServer/www/Кроха Мотылёк/feed.php",
+		"/D/WampServer/www/Кроха Мотылёк/err404.php",
+		"/D/WampServer/www/Кроха Мотылёк/modules/auth/auth.php",
+		"/D/WampServer/www/Кроха Мотылёк/modules/auth/auth_in.php",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/authreg.css",
+		"/C/Users/user/Desktop/tasks.js",
+		"/C/Users/user/Desktop/index.html",
+		"/D/WampServer/www/Кроха Мотылёк/functions/authreg.js",
+		"/C/Users/user/Desktop/style.css",
+		"/D/WampServer/www/Кроха Мотылёк/functions/auth.js",
+		"/E/lab4/assets/css/colors.sass",
+		"/E/lab4/assets/css/style.css.map",
+		"/E/Университет/ДЭиВИ/lab4/assets/css/style.css",
+		"/E/Университет/ДЭиВИ/lab4/assets/css/style.haml",
+		"/E/Университет/ДЭиВИ/lab3/style.css",
+		"/E/Университет/ДЭиВИ/lab3/tasks.js",
+		"/E/Университет/ДЭиВИ/lab2/lab1/tasks.js",
+		"/E/Университет/ДЭиВИ/lab2/index.html",
+		"/E/Университет/ДЭиВИ/lab2/lab1/index.html",
+		"/E/Университет/ДЭиВИ/lab2/tasks.js",
+		"/C/Users/user/Downloads/Telegram Desktop/Лр2/Задание 2/js/main.js",
+		"/E/Университет/JS/Лабораторная работа 11/tasks.js",
+		"/D/WampServer/www/Кроха Мотылёк/functions/like.js",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/response.php",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/create-post.css",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/cabinet.css",
+		"/D/WampServer/www/Кроха Мотылёк/functions/small-window.js",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/header.css",
+		"/C/Users/user/Desktop/Vector.svg",
+		"/E/Университет/ДЭиВИ/lab2/lab1/style.css",
+		"/E/Университет/ДЭиВИ/lab2/lab1/tasks-копия.js",
+		"/E/Университет/ДЭиВИ/lab2/style.css",
+		"/E/Университет/ДЭиВИ/lab1/style.css",
+		"/E/Университет/ДЭиВИ/lab1/tasks.js",
+		"/E/Университет/ДЭиВИ/lab1/index.html",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/userLikes.php",
+		"/E/Университет/ДЭиВИ/lab1/tasks-копия.js",
+		"/E/Университет/ДЭиВИ/lab1/style-копия.css",
+		"/E/Университет/ДЭиВИ/lab1/index — копия.html",
+		"/E/Университет/ДЭиВИ/lab1/tasks — копия.js",
+		"/C/Users/user/Desktop/Ресурс 3.svg",
+		"/C/Users/user/Desktop/Ресурс 4.svg",
+		"/C/Users/user/Desktop/js/main.js",
+		"/E/Университет/ДЭиВИ/lab1/map.svg",
+		"/C/Users/user/Desktop/Ресурс 3-min.svg",
+		"/C/Users/user/Desktop/map_1.svg",
+		"/D/WampServer/www/Кроха Мотылёк/functions/note.js",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/general.css",
+		"/D/WampServer/www/Кроха Мотылёк/functions/big-window.js",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/post.css",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/userPosts.php",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/postComments.php",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/responce.php",
+		"/D/WampServer/www/Кроха Мотылёк/blocks/userComments.php",
+		"/D/WampServer/www/Кроха Мотылёк/functions/sections-cabinet-logged.js",
+		"/D/WampServer/www/Кроха Мотылёк/cabinetRandom.php",
+		"/D/WampServer/www/Кроха Мотылёк/connect/db.php",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/404.css",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/about.css",
+		"/D/WampServer/www/Кроха Мотылёк/assets/css/footer.css",
+		"/D/WampServer/www/labworks/project/modules/auth/auth_in.php",
+		"/D/WampServer/www/labworks/project/modules/auth/auth_result.php",
+		"/D/WampServer/www/labworks/project/blocks/body.php",
+		"/D/WampServer/www/labworks/project/index.php",
+		"/D/WampServer/www/labworks/labwork10/lab10.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,242 @@
+.bg{
+	width: 100%;
+	height: 213px;
+
+	background-image: url('../images/bg.png');
+	background-size: cover;
+	border-radius: 15px 15px 0px 0px;
+}
+
+.bg object{
+	width: 22px;
+	height: 22px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 96%;
+}
+
+.avatar-name{
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+	margin-top: -100px;
+	margin-bottom: 70px;
+
+	display: flex;
+	align-items: flex-end;
+}
+
+.avatar{
+	width: 193px;
+	height: 193px;
+
+	background-image: url('../images/avatar.jpg');
+	background-size: cover;
+	border-radius: 193px;
+
+	margin-right:4%; 
+}
+
+.statistics{
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+
+	display: flex;
+	justify-content: space-between;
+}
+
+.name{
+	margin-bottom: 20px;
+}
+
+.categories{
+	width: 80%;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+	display: flex;
+	justify-content: space-between;
+}
+.categories h2{
+	transition: all ease .3s;
+}
+.categories h2:hover{
+	cursor: pointer;
+	color: var(--gray);
+}
+.line{
+	background: var(--blue);
+	width: 100%;
+	height: 3px;
+	transition: all ease .3s;
+}
+
+iframe{
+	border: none;
+	height: 550px;
+}
+
+.data{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--gray);
+	font-weight: 400;
+}
+
+
+.post a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	color: var(--black);
+	font-weight: 400;
+	text-decoration: none;
+	margin-bottom: 20px;
+	transition: all ease 0.3s;
+}
+.post a:hover{
+	color: var(--gray);
+}
+
+.button{
+	height: 35px;
+	width: 15%;
+
+	margin-left: auto;
+
+	background: var(--orange);
+
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-size: 12px;
+	color: white;
+
+	font-weight: 400;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border-style: solid;
+	border-color: var(--orange);
+	border-radius: 15px;
+
+	transition: all ease .3s;
+}
+.button:hover{
+  box-shadow: 5px 5px 30px var(--orange);
+  cursor: pointer;
+  outline: none;
+}
+
+
+
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 150px; /* Location of the box */
+    padding-bottom: 150px;
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+
+.modal-content {
+	background: #FFFFFF;
+	box-shadow: 1px 1px 4px 3px rgba(0, 0, 0, 0.05);
+	border-radius: 15px;
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+
+    position: relative;
+    margin: auto;
+    padding-top: 10px;
+    padding-right: 1%;
+    padding-left: 1%;
+    border: none;
+    width: 25%;
+
+    -webkit-animation-name: animatetop;
+    -webkit-animation-duration: 0.4s;
+    animation-name: animatetop;
+    animation-duration: 0.4s
+}
+
+
+@-webkit-keyframes animatetop {
+    from {top:-300px; opacity:0} 
+    to {top:0; opacity:1}
+}
+
+@keyframes animatetop {
+    from {top:-300px; opacity:0}
+    to {top:0; opacity:1}
+}
+
+
+.close {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	color: var(--black);
+	font-weight: 400;
+	float: right;
+	transition: all ease 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: var(--gray);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.modal-body {
+	margin-top: 40px;
+	margin-left: 23%;
+	margin-right: 23%;
+	margin-bottom: 40px;
+}
+
+.sub{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	color: var(--black);
+	font-weight: 400;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	margin-bottom: 40px;
+}
+
+.sub a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 24px;
+	color: var(--black);
+	font-weight: 400;
+	transition: all ease 0.3s;
+	text-decoration: none;
+	margin-left: 20px;
+}
+.sub a:hover{
+	color: var(--gray);
+}
+
+.sub-avatar{
+	background-image: url('http://localhost/gamekm/assets/images/avatar.jpg');
+	background-size: cover;
+	border-radius: 200px;
+	width: 80px;
+	height: 80px;
+}

@@ -1,0 +1,195 @@
+.block{
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 4%;
+	padding-right: 4%;
+}
+
+.data{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--gray);
+	font-weight: 400;
+}
+
+.feedback1{
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+	display: flex;
+}
+.commentIcon{
+	margin-left: auto;
+}
+
+.likeButton{
+	height: 40px;
+	width: 15%;
+
+	margin-left: auto;
+
+	background: var(--pink);
+
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-size: 12px;
+	color: white;
+
+	font-weight: 400;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border-style: solid;
+	border-color: var(--pink);
+	border-radius: 15px;
+
+	transition: all ease .3s;
+
+}
+
+.likeButton:hover{
+  box-shadow: 5px 5px 30px var(--pink);
+  cursor: pointer;
+  outline: none;
+}
+
+.author{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--gray);
+	font-weight: 400;
+}
+
+.avatar{
+	width: 90px;
+	height: 80px;
+	margin-right: 20px;
+
+	border-radius: 100px;
+
+	background-image: url('http://localhost/gamekm/assets/images/avatar.jpg');
+	background-size: cover;
+}
+
+form textarea{
+	width: 100%;
+	height: 130px;
+	max-width: 100%;
+	max-height: 130px;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+
+	border-radius: 10px;
+	border-color: var(--gray);
+	border-style: solid 2px;
+	outline:none;
+}
+.comment-block{
+	width: 96%;
+	display: flex;
+	flex-direction: row;
+}
+.block .comment-area{
+	width: 100%;
+	display: block;
+	flex-direction: column;
+
+}
+form div{
+	display: flex;
+	justify-content: space-between;
+}
+.commentButton{
+	height: 40px;
+	width: 15%;
+
+	margin-left: auto;
+
+	background: var(--blue);
+
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-size: 12px;
+	color: white;
+
+	font-weight: 400;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border-style: solid;
+	border-color: var(--blue);
+	border-radius: 15px;
+
+	transition: all ease .3s;
+
+}
+
+.commentButton:hover{
+  box-shadow: 5px 5px 30px var(--blue);
+  cursor: pointer;
+  outline: none;
+}
+
+.comment-area .comment{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.respondButton{
+	height: 40px;
+	width: 15%;
+
+	margin-left: auto;
+	margin-top: 0;
+
+
+	background: var(--blue);
+
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-size: 12px;
+	color: white;
+
+	font-weight: 400;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border-style: solid;
+	border-color: var(--blue);
+	border-radius: 15px;
+
+	transition: all ease .3s;
+
+}
+
+.respondButton:hover{
+  box-shadow: 5px 5px 30px var(--blue);
+  cursor: pointer;
+  outline: none;
+}
+
+.comment-area a{
+	text-decoration: none;
+	transition: all ease .3s;
+
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	font-size: 24px;
+	color: black;
+}
+
+.comment-area a:hover{
+	color: var(--gray);
+}

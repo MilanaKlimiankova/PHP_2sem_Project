@@ -1,0 +1,280 @@
+@media (min-width: 1025px) {
+.menu{
+	width: 14.6%;
+	margin: 0 0 0 50%;
+	padding: 0;
+
+	display: flex;
+	justify-content: space-between;
+}
+.icons{
+	padding: 0;
+	width: 5.5%;
+	margin: 0 0 0 5%;
+
+	display: flex;
+	justify-content: space-between;
+
+	
+}
+#burger{
+	display: none;
+}
+}
+
+@media (max-width: 1024px) { 
+	.menu{
+	display: none;
+} 
+.icons{
+	padding: 0;
+	width: 5.5%;
+	margin: 0 0 0 65%;
+
+	display: flex;
+	justify-content: space-between;
+
+	
+}
+#burger{
+	display: visible;
+}}
+
+
+@media (max-width: 980px) { 
+.menu{
+	display: none;
+} 
+.icons{
+	padding: 5px;
+	width: 5.5%;
+	margin: 0 0 0 60%;
+
+	display: flex;
+	justify-content: space-between;
+
+	
+}
+#burger{
+	display: visible;
+}}
+
+@media (max-width: 780px) { 
+.menu{
+	display: none;
+} 
+.icons{
+	padding: 5px;
+	width: 5.5%;
+	margin: 0 0 0 50%;
+
+	display: flex;
+	justify-content: space-between;
+
+	
+}
+#burger{
+	display: visible;
+}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header{
+	position: fixed;
+	width: 100%;
+	height: 25px;
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 14px;
+	padding-bottom: 14px;
+
+	display: flex;
+	align-items: center;
+	align-content: space-between;
+
+	background: linear-gradient(180deg, #FFFFFF 91.67%, #F2F2F2 100%);
+
+	z-index: 10000;
+}
+
+.logo{
+	width: 140px;
+	height: 26px;
+	padding: 0;
+}
+
+
+
+.menu li a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+	text-decoration: none;
+	transition: all ease 0.3s;
+}
+.menu li a:hover{
+	color: var(--gray);
+}
+
+
+.icons li svg path{
+	transition: all ease 0.3s;
+}
+.icons li{
+	margin: 5px;
+}
+.icons li:hover{
+	cursor: pointer;
+}
+
+#user defs stop{
+  transition: .4s;
+}
+#user:hover defs stop{
+  stop-color: var(--pink);
+}
+#user defs feDropShadow {
+  transition: .4s;
+  flood-color: transparent;
+}
+#user:hover feDropShadow{
+  flood-color: var(--pink);
+}
+
+#pencil defs stop{
+  transition: .4s;
+}
+#pencil:hover defs stop{
+  stop-color: var(--blue);
+}
+#pencil defs feDropShadow {
+  transition: .4s;
+  flood-color: transparent;
+}
+#pencil:hover feDropShadow{
+  flood-color: var(--blue);
+}
+
+#burger defs stop{
+  transition: .4s;
+}
+#burger :hover defs stop{
+  stop-color: var(--orange);
+}
+#burger defs feDropShadow {
+  transition: .4s;
+  flood-color: transparent;
+}
+#burger:hover feDropShadow{
+  flood-color: var(--orange);
+}
+
+#small-window{
+	width: 6.5%;
+	height: 90px;
+	min-width: 100px;
+
+
+	z-index: 100;
+
+	background: #FFFFFF;
+	box-shadow: 1px 1px 4px 3px rgba(0, 0, 0, 0.05);
+	border-radius: 15px;
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+
+
+	position: fixed;
+	margin-left: 80%;
+	margin-right: 2%;
+	padding-left: 2.7%;
+	margin-top: 50px;
+	padding-right: 2.7%;
+	padding-top: 40px;
+
+	transition: all ease 0.3s;
+	visibility: hidden;
+  	opacity: 0;
+  	/*transform: translate(-50%, 20px);*/
+}
+
+#small-window ul li{
+	margin-bottom: 20px;
+}
+#small-window ul li a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+	text-decoration: none;
+	transition: all ease 0.3s;
+
+}
+#small-window ul li a:hover{
+	color: var(--gray);
+}
+
+
+
+#menu-window{
+	width: 6.5%;
+	height: 120px;
+	min-width: 100px;
+
+
+	z-index: 100;
+
+	background: #FFFFFF;
+	box-shadow: 1px 1px 4px 3px rgba(0, 0, 0, 0.05);
+	border-radius: 15px;
+
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+
+
+	position: fixed;
+	margin-left: 80%;
+	margin-right: 8%;
+	padding-left: 2.7%;
+	margin-top: 50px;
+	padding-right: 2.7%;
+	padding-top: 40px;
+
+	transition: all ease 0.3s;
+	visibility: hidden;
+  	opacity: 0;
+  	/*transform: translate(-50%, 20px);*/
+}
+
+#menu-window ul li{
+	margin-bottom: 20px;
+}
+#menu-window ul li a{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 12px;
+	color: var(--black);
+	font-weight: 400;
+	text-decoration: none;
+	transition: all ease 0.3s;
+
+}
+#menu-window ul li a:hover{
+	color: var(--gray);
+}
